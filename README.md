@@ -1,5 +1,7 @@
 # Mandelbrot-Viewer
 
+<img src="./mandelbrot.png" width="400" height="320">
+
 ## Overview
 Mandelbrot fractal viewer with zoom/pan camera functionality.  For use with the Legit Game Engine.
 
@@ -15,3 +17,4 @@ This program uses a shader file to implement the mandelbrot algorithm.  As such,
 
 ## External Resources
 Coloring algorithm taken from https://gist.github.com/patriciogonzalezvivo/114c1653de9e3da6e1e3
+Rendered using [Legit Game Engine](https://github.com/brock-eng/Legit-Game-Engine)
