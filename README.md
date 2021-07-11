@@ -13,5 +13,5 @@ The mandelbrot fractal is perhaps the worlds most popular fractal piece, with hu
 
 This program uses a shader file to implement the mandelbrot algorithm.  As such, it only displays zoom levels up to the accuracy provided in floating point numbers.  
 
-## Credits
+## External Resources
 Coloring algorithm taken from https://gist.github.com/patriciogonzalezvivo/114c1653de9e3da6e1e3
